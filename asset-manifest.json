@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.abe18293.css",
-    "main.js": "/static/js/main.35928fe7.js",
-    "static/js/453.a6a97343.chunk.js": "/static/js/453.a6a97343.chunk.js",
-    "index.html": "/index.html",
-    "main.abe18293.css.map": "/static/css/main.abe18293.css.map",
-    "main.35928fe7.js.map": "/static/js/main.35928fe7.js.map",
-    "453.a6a97343.chunk.js.map": "/static/js/453.a6a97343.chunk.js.map"
+    "main.css": "/create-react-apps/static/css/main.aac039f0.css",
+    "main.js": "/create-react-apps/static/js/main.ea0263cd.js",
+    "static/js/453.5565870f.chunk.js": "/create-react-apps/static/js/453.5565870f.chunk.js",
+    "static/media/MarkdownBlog_Background.jpg": "/create-react-apps/static/media/MarkdownBlog_Background.981ff7fd0b82124851c2.jpg",
+    "index.html": "/create-react-apps/index.html",
+    "main.aac039f0.css.map": "/create-react-apps/static/css/main.aac039f0.css.map",
+    "main.ea0263cd.js.map": "/create-react-apps/static/js/main.ea0263cd.js.map",
+    "453.5565870f.chunk.js.map": "/create-react-apps/static/js/453.5565870f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abe18293.css",
-    "static/js/main.35928fe7.js"
+    "static/css/main.aac039f0.css",
+    "static/js/main.ea0263cd.js"
   ]
 }
